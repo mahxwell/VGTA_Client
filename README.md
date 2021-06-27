@@ -2,6 +2,8 @@
 
 GUI made to visualize Nessus Vulnerabilities from NessusVulnerabilities Data Base
 
-Usage:
+### Usage
 
+```
 python main.py
+```
