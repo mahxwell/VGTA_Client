@@ -1,9 +1,13 @@
 # NessusVulnerabilitiesVisualizer
 
-GUI made to visualize Nessus Vulnerabilities from NessusVulnerabilities Data Base
+GUI made to visualize Nessus Vulnerabilities collected in NessusVulnerabilities Database
 
 ### Usage
 
 ```
 python main.py
 ```
+
+### Frameworks
+
+- Django Application
