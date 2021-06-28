@@ -5,7 +5,7 @@ GUI made to visualize Nessus Vulnerabilities collected in NessusVulnerabilities 
 ### Usage
 
 ```
-python main.py
+python manage.py
 ```
 
 ### Frameworks
