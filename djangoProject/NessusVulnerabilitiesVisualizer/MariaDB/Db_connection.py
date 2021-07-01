@@ -1,6 +1,6 @@
 import mariadb
 import sys
-from Strings import strings
+from NessusVulnerabilitiesVisualizer.Strings import strings
 
 
 def data_base_connection():
